@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/ForceSubscribeBot"><img src="https://telegra.ph/file/317f37f33c0055bfb34d6.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/cahyo96/ForceSubscribeBot"><img src="https://telegra.ph/file/317f37f33c0055bfb34d6.jpg" width="2000"></a></p>
 
 Telegram bot to force users to subscribe a particular chat.
 
